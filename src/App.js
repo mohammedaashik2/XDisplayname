@@ -1,4 +1,4 @@
-import Displayname from "./displayname";
+import Displayname from "./Displayname";
 
 function App() {
   return (
